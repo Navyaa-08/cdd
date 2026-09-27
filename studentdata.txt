@@ -1,5 +1,5 @@
 Name:Arya Jivan
-Age:19
+Age:18
 Studies:BCOM
 Collage:DBC collage
 1st rank student
