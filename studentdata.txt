@@ -1,6 +1,10 @@
-Arya Jivan
-18
+Name:Arya Jivan
+Age:18
 BCOM
 DBC college
 1st rank student
 hobbies:Football , video games and scrolling 
+
+Name:Varshini
+Age:24
+Masters 
